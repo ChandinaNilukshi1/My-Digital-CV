@@ -1,3 +1,4 @@
+![Profile Picture](https://github.com/ChandinaNilukshi1/My-Digital-CV/blob/main/Screenshot%202024-02-01%20224521.png)
 # John Doe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-johndoe-blue)](https://www.linkedin.com/in/johndoe/)
