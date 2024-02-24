@@ -8,7 +8,9 @@
 
 ## Summary
 
-Experienced software engineer with a proven track record of delivering high-quality software solutions. Skilled in full-stack web development, cloud computing, and machine learning. Strong problem-solving abilities with a focus on clean code and best practices. Passionate about leveraging technology to drive business growth and innovation.
+Dedicated, English as a Second Language (ESL) teacher with 18+ years’ experience teaching in government schools in educating primary and secondary school students. Passionate about motivating students to develop skills and produce significant academic achievements.   
+ 
+ 
 
 ---
 
