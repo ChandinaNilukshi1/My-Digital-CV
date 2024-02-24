@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ChandinaNilukshi-black)](https://github.com/ChandinaNilukshi1/)
 
 #### Contacts: 
-Address :  101/10,Puwakgaswatta, Makandana, Madapatha, Sri Lanka 
+Address :  101/10,Puwakgaswatta, Makandana, Madapatha, Sri Lanka. 
 +94718263752  
 chanminanilukshi2340@gmail.com 
  
