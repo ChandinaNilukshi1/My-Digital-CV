@@ -31,7 +31,22 @@ Dedicated, English as a Second Language (ESL) teacher with 18+ years’ experien
 
 ## Experience
 
-### Senior Software Engineer  
+### Teacher Service 
+- Swarnapali Balika Vidyalaya, Anuradhapura (February 2005 - January 2008)
+- Grade 5 English Language Teacher
+- Grade 6, 9, 10 English Language Teacher
+- Grade 12 General English
+- Teacher in charge of grade 6
+- Defence Services College, Colombo 02 (January 2008 - January 2016)
+- Grade 1-5 English Language Teacher
+- Grade 6-8 English Language Teacher
+- Grade 8 Practical Technical Studies Teacher
+- Teacher in charge of Grade 6
+- Teacher in charge of English Literary Association (2015)
+- Teacher in charge of Grade 1 & 2 (2008-2009) 
+ 
+ 
+• Bandaragama Central College, Bandaragama (January 2016 - February 2017) - Teacher in charge of Grade 8 - Teacher in charge of cub scouting - English Language Teacher of Grade 1-5 & Grade 8 
 **Tech Innovations Inc.**  
 _January 2018 - Present_
 
