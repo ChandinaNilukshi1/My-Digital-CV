@@ -3,9 +3,18 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ChandinaNilukshi-black)](https://github.com/ChandinaNilukshi1/)
 
-
----
-
+#### Contacts: 
+     Address :  101/10,Puwakgaswatta, Makandana, Madapatha, Sri Lanka 
+      +94718263752  
+      chanminanilukshi2340@gmail.com 
+ 
+#### Interests 
+-Teaching 
+-Reading  
+-Cooking 
+-Gardening 
+#### Date of Birth: 23rd August 1980
+ 
 ## Professional Profile
 
 Dedicated, English as a Second Language (ESL) teacher with 18+ years’ experience teaching in government schools in educating primary and secondary school students. Passionate about motivating students to develop skills and produce significant academic achievements.   
