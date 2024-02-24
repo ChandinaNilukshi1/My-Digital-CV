@@ -2,7 +2,7 @@
 # John Doe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-johndoe-blue)](https://www.linkedin.com/in/johndoe/)
-[![GitHub](https://img.shields.io/badge/GitHub-johndoe-black)](https://github.com/johndoe/)
+[![GitHub](https://img.shields.io/badge/GitHub-johndoe-black)](https://github.com/ChandinaNilukshi1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-johndoe-black)](https://www.johndoe.com/)
 
 ---
