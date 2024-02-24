@@ -6,7 +6,7 @@
 
 ---
 
-## Summary
+## Professional Profile
 
 Dedicated, English as a Second Language (ESL) teacher with 18+ years’ experience teaching in government schools in educating primary and secondary school students. Passionate about motivating students to develop skills and produce significant academic achievements.   
  
@@ -15,13 +15,16 @@ Dedicated, English as a Second Language (ESL) teacher with 18+ years’ experien
 ---
 
 ## Skills
-
-- **Programming Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React.js, Node.js, Express.js, Django
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Machine Learning:** TensorFlow, PyTorch, scikit-learn
-- **Cloud Platforms:** AWS, Google Cloud Platform, Microsoft Azure
-- **DevOps:** Docker, Kubernetes, Jenkins
+- **Teaching**
+- **Writing Lesson Plans**
+- **Communicating**
+- **Classroom Management**
+- **Learner Assessment**
+- **Direct instruction strategies**
+- **Attendance and Grade Documentation**
+- **Preparation of term test papers**
+- **Writing certificates**   
+- **Programming Languages:** Python
 - **Version Control:** Git, GitHub
 
 ---
