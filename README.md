@@ -9,10 +9,10 @@ Address :  101/10,Puwakgaswatta, Makandana, Madapatha, Sri Lanka
 chanminanilukshi2340@gmail.com 
  
 #### Interests 
--Teaching 
--Reading  
--Cooking 
--Gardening 
+- Teaching 
+- Reading  
+- Cooking 
+- Gardening 
 #### Date of Birth: 23rd August 1980
  
 ## Professional Profile
