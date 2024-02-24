@@ -56,57 +56,24 @@ Dedicated, English as a Second Language (ESL) teacher with 18+ years’ experien
 - Teacher in charge of Grade 12 & 13 ( 2018 to 2024)
 - Teacher in charge of Carrier Guidance Unit
   
-##Certificates  
+## Certificates  
 - Certificate course in English Language (Intermediate Level) Merit Pass (Institute of Workers’ Education University of Colombo)
 - Certificate course in English Language (Higher Level) Distinction Pass (Institute of Workers’ Education University of Colombo)
 - Successfully completed the “Diploma in Computer Studies” with Distinction at IDM Computer Studies (PVT) Ltd.
 - Achievement of a Merit Pass at the ‘Block Teaching’ sessions in the academic year 2003 at Pasdunrata National College of Education.
 - Participation of Training for teachers - Learning and Teaching English Speaking Skills (English as a Life Skills)
   
-### Software Developer  
-**NextGen Solutions**  
-_August 2015 - December 2017_
-
-- Collaborated with cross-functional teams to deliver software solutions tailored to client requirements and business needs.
-- Designed and developed frontend interfaces using React.js and backend services using Node.js and Express.js.
-- Optimized database queries and system performance, resulting in a 30% reduction in server response time.
-
----
-
-## Education
-
-### Master of Science in Computer Science  
-**University of Techville**  
-_Graduated: May 2015_
-
-### Bachelor of Science in Computer Engineering  
-**University of Techville**  
-_Graduated: May 2013_
-
----
-
-## Projects
-
-### E-commerce Platform
-_Description:_ Developed a full-stack e-commerce platform featuring user authentication, product catalog, and payment processing.
-_Technologies Used:_ React.js, Node.js, MongoDB
-_Link:_ [GitHub](https://github.com/johndoe/ecommerce-platform)
-
-### Sentiment Analysis with Deep Learning
-_Description:_ Built a deep learning model for sentiment analysis using TensorFlow and deployed it on AWS Lambda.
-_Technologies Used:_ Python, TensorFlow, AWS Lambda
-_Link:_ [GitHub](https://github.com/johndoe/sentiment-analysis)
-
----
-
-## Certifications
-
-- AWS Certified Solutions Architect - Associate
-- Google Cloud Certified - Professional Data Engineer
-
----
+### Extra Activities  
+- Defence Services College, Colombo 02 (Teacher in charge of English Literary Association 2015)
+- Mahanama College, Colombo 03 (Member of English Literary Association 2017 & 2018) & (Member of Commerce Society) 
+ 
+### Education 
+- Successfully completed the three-year professional course in English at Pasdunrata National College of Education. (2003-2005)
+- General Certificate of Education (Advance Level)1999
+      Accounting   B          Business Statistics B         Economics  C        Business Studies S    (Aggregate Marks 246) 
+- General Certificate of Education (Ordinary Level)1996 Distinction Pass 3 Credit Pass 5 (Distinction pass for English) 
 
 ## Languages
+- Sinhala 
+- English 
 
-- English (Native)
-- Spanish (Intermediate)
