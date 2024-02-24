@@ -5,8 +5,8 @@
 
 #### Contacts: 
 - Address :  101/10,Puwakgaswatta, Makandana, Madapatha, Sri Lanka.
-- +94718263752  
-- chanminanilukshi2340@gmail.com 
+- Tele. Number :  +94718263752  
+- E-mail  :  chanminanilukshi2340@gmail.com 
  
 #### Interests 
 - Teaching 
