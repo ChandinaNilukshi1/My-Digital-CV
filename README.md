@@ -1,4 +1,4 @@
-![Profile Picture](https://ibb.co/DWF513Z)
+![Profile Picture](https://github.com/ChandinaNilukshi1/My-Digital-CV/blob/main/Screenshot%202024-02-01%20224521.png)
 Your Name
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
