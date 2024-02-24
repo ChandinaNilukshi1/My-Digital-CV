@@ -56,13 +56,13 @@ Dedicated, English as a Second Language (ESL) teacher with 18+ years’ experien
 - Teacher in charge of Grade 12 & 13 ( 2018 to 2024)
 - Teacher in charge of Carrier Guidance Unit
   
- ovations Inc.**  
-_January 2018 - Present_
-
-- Led a team of developers in the design and implementation of a scalable microservices architecture using Docker and Kubernetes.
-- Developed RESTful APIs for integration with third-party systems, resulting in improved data exchange and system interoperability.
-- Implemented machine learning algorithms for predictive analytics, leading to a 20% improvement in customer retention.
-
+##Certificates  
+- Certificate course in English Language (Intermediate Level) Merit Pass (Institute of Workers’ Education University of Colombo)
+- Certificate course in English Language (Higher Level) Distinction Pass (Institute of Workers’ Education University of Colombo)
+- Successfully completed the “Diploma in Computer Studies” with Distinction at IDM Computer Studies (PVT) Ltd.
+- Achievement of a Merit Pass at the ‘Block Teaching’ sessions in the academic year 2003 at Pasdunrata National College of Education.
+- Participation of Training for teachers - Learning and Teaching English Speaking Skills (English as a Life Skills)
+  
 ### Software Developer  
 **NextGen Solutions**  
 _August 2015 - December 2017_
